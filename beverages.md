@@ -4,7 +4,7 @@
 2. Grapefruit juice
 3. rosy wine 
 4. beer
-5. vodka
+
 :wine_glass:
 
 # Markdown
