@@ -1,7 +1,6 @@
 # Entrees
 
 * Margarita pizza
-* Pork knuckles
 * Honey fried chicken
 
 
