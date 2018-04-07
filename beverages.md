@@ -3,8 +3,9 @@
 1. Water
 2. Grapefruit juice
 3. rosy wine 
-4. beer 
-5. :wine_glass:
+4. beer
+
+:wine_glass:
 
 # Markdown
 
