@@ -11,11 +11,6 @@
 Testing 
 
 
-## Header
-
-Use one to six "#" to get different levels of headings
-
-## Italic
 
 *This will be italic*
 
