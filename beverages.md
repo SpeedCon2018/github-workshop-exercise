@@ -1,7 +1,9 @@
 # Beverages
 
-* Water
-* Grapefruit juice
+1. Water
+2. Grapefruit juice
+3. rosy wine 
+4 beer 
 
 # Markdown
 
