@@ -2,6 +2,7 @@
 
 * Water
 * Grapefruit juice
+:wine_glass:
 
 # Markdown
 
