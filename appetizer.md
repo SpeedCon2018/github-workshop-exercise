@@ -8,6 +8,12 @@
  * Almonds
  * Pistachios (__This is very important__) 
  * Crab Triangles *English Muffins with **cheese** and crab*
+* Fruit Salad
+ * Blueberries
+ * Canteloupe
+ * Strawberries
+ * Honeydew
+* Sliders :hamburger:
 
 
 # Markdown
