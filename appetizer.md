@@ -4,6 +4,7 @@
 * Guacamole
 * Breadsticks
 * Chips and salsa
+* Sliders :hamburger:
 
 
 # Markdown
