@@ -4,6 +4,11 @@
 * Guacamole
 * Breadsticks
 * Chips and salsa
+* Fruit Salad
+ * Blueberries
+ * Canteloupe
+ * Strawberries
+ * Honeydew
 * Sliders :hamburger:
 
 
