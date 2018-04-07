@@ -4,6 +4,10 @@
 * Guacamole
 * Breadsticks
 * Chips and salsa
+* Nuts
+ * Almonds
+ * Pistachios (__This is very important__) 
+ * Crab Triangles *English Muffins with **cheese** and crab*
 
 
 # Markdown
